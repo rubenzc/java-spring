@@ -26,7 +26,7 @@ public class ConnectionDB {
     public static void main(String[] args) {
         var connection = ConnectionDB.getConnection();
         if(connection != null){
-            System.out.println("OK" + connection);
+            System.out.println("OK " + connection);
         } else {
             System.out.println("KO");
         }
