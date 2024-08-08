@@ -1,4 +1,4 @@
-package connection;
+package dev.ru.connection;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

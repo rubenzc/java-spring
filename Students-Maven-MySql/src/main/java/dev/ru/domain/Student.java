@@ -1,4 +1,4 @@
-package domain;
+package dev.ru.domain;
 
 public class Student {
 
